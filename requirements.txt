@@ -1,0 +1,7 @@
+beautifulsoup4
+bokeh
+dadata
+openpyxl
+pandas
+pyproj
+python-dotenv
